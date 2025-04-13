@@ -1,9 +1,16 @@
+using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
+
 namespace api.Models
 {
     public class Bill
     {
-        public string BillID { get; set; }=string.Empty;
+        [Key]
+        public Guid BillID { get; set; }
         public DateTime CreatAt { get; set; }
-        public bool StatusPayment { get; set; } = false;
+
+        [ForeignKey("Enrollment")]
+        public Guid EnrollmentID { get; set; }
+        public virtual Enrollment Enrollment { get; set; }
     }
 }

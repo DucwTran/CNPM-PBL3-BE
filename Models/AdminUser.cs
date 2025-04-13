@@ -1,7 +1,7 @@
 
 namespace api.Models
 {
-    public class Admin: User
+    public class AdminUser: User
     {
        
     }
