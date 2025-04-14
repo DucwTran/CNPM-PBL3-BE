@@ -6,7 +6,7 @@ namespace api.Models
     public class User
     {
         [Key]
-        public Guid UserID { get; set; } = string.Empty;
+        public Guid UserID { get; set; }
 
         public string Fullname { get; set; } = string.Empty;
         public string Password { get; set; } = string.Empty;

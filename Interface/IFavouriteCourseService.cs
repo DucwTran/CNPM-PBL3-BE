@@ -12,8 +12,8 @@ namespace api.Interface
     {
         public Task AddFavouriteCourseAsync(FavouriteCourse favouriteCourse);
         public Task DeleteFavouriteCourseAsync(Guid favouriteCourseId);
-        public Task<FavouriteCourse> GetFavvouriteCourseByIdAsync(Guid favouriteCourseId);
+        public Task<FavouriteCourse> GetFavouriteCourseByIdAsync(Guid favouriteCourseId);
         public Task<IEnumerable<FavouriteCourse>> GetFavouriteCoursesByStudentIdAsync(Guid studentId);
-        public Task<IEnumerable<FavouriteCourse>> GetAllFavouriteCourses();
+        public Task<IEnumerable<FavouriteCourse>> GetAllFavouriteCoursesAsync();
     }
 }

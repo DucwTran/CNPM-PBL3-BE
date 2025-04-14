@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace api.Interface
 {
-    public interface IErollmentService
+    public interface IEnrollmentService
     {
         public Task AddEnrollmentAsync(Enrollment enrollment);
         public Task UpdateEnrollmentAsync(Enrollment enrollment);

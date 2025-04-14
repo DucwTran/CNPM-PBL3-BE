@@ -1,7 +1,60 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "H:\\CNPM-PBL3-BE\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F64D01F0-1089-4F77-BB34-116E6F5159EF}|api.csproj|h:\\cnpm-pbl3-be\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F64D01F0-1089-4F77-BB34-116E6F5159EF}|api.csproj|solutionrelative:services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F64D01F0-1089-4F77-BB34-116E6F5159EF}|api.csproj|h:\\cnpm-pbl3-be\\services\\reviewservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F64D01F0-1089-4F77-BB34-116E6F5159EF}|api.csproj|solutionrelative:services\\reviewservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F64D01F0-1089-4F77-BB34-116E6F5159EF}|api.csproj|h:\\cnpm-pbl3-be\\services\\billservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F64D01F0-1089-4F77-BB34-116E6F5159EF}|api.csproj|solutionrelative:services\\billservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F64D01F0-1089-4F77-BB34-116E6F5159EF}|api.csproj|h:\\cnpm-pbl3-be\\services\\courseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F64D01F0-1089-4F77-BB34-116E6F5159EF}|api.csproj|solutionrelative:services\\courseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F64D01F0-1089-4F77-BB34-116E6F5159EF}|api.csproj|h:\\cnpm-pbl3-be\\services\\enrollmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F64D01F0-1089-4F77-BB34-116E6F5159EF}|api.csproj|solutionrelative:services\\enrollmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F64D01F0-1089-4F77-BB34-116E6F5159EF}|api.csproj|h:\\cnpm-pbl3-be\\services\\favouritecourseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F64D01F0-1089-4F77-BB34-116E6F5159EF}|api.csproj|solutionrelative:services\\favouritecourseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F64D01F0-1089-4F77-BB34-116E6F5159EF}|api.csproj|h:\\cnpm-pbl3-be\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F64D01F0-1089-4F77-BB34-116E6F5159EF}|api.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F64D01F0-1089-4F77-BB34-116E6F5159EF}|api.csproj|h:\\cnpm-pbl3-be\\services\\lessonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F64D01F0-1089-4F77-BB34-116E6F5159EF}|api.csproj|solutionrelative:services\\lessonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F64D01F0-1089-4F77-BB34-116E6F5159EF}|api.csproj|h:\\cnpm-pbl3-be\\interface\\ibillservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F64D01F0-1089-4F77-BB34-116E6F5159EF}|api.csproj|solutionrelative:interface\\ibillservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F64D01F0-1089-4F77-BB34-116E6F5159EF}|api.csproj|h:\\cnpm-pbl3-be\\interface\\icourseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F64D01F0-1089-4F77-BB34-116E6F5159EF}|api.csproj|solutionrelative:interface\\icourseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F64D01F0-1089-4F77-BB34-116E6F5159EF}|api.csproj|h:\\cnpm-pbl3-be\\models\\enrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F64D01F0-1089-4F77-BB34-116E6F5159EF}|api.csproj|solutionrelative:models\\enrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F64D01F0-1089-4F77-BB34-116E6F5159EF}|api.csproj|h:\\cnpm-pbl3-be\\interface\\ienrollmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F64D01F0-1089-4F77-BB34-116E6F5159EF}|api.csproj|solutionrelative:interface\\ienrollmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F64D01F0-1089-4F77-BB34-116E6F5159EF}|api.csproj|h:\\cnpm-pbl3-be\\models\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F64D01F0-1089-4F77-BB34-116E6F5159EF}|api.csproj|solutionrelative:models\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +62,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Bookmark",
@@ -18,6 +71,175 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FavouriteCourseService.cs",
+              "DocumentMoniker": "H:\\CNPM-PBL3-BE\\Services\\FavouriteCourseService.cs",
+              "RelativeDocumentMoniker": "Services\\FavouriteCourseService.cs",
+              "ToolTip": "H:\\CNPM-PBL3-BE\\Services\\FavouriteCourseService.cs",
+              "RelativeToolTip": "Services\\FavouriteCourseService.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAA3wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T06:36:18.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LessonService.cs",
+              "DocumentMoniker": "H:\\CNPM-PBL3-BE\\Services\\LessonService.cs",
+              "RelativeDocumentMoniker": "Services\\LessonService.cs",
+              "ToolTip": "H:\\CNPM-PBL3-BE\\Services\\LessonService.cs",
+              "RelativeToolTip": "Services\\LessonService.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T06:35:54.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BillService.cs",
+              "DocumentMoniker": "H:\\CNPM-PBL3-BE\\Services\\BillService.cs",
+              "RelativeDocumentMoniker": "Services\\BillService.cs",
+              "ToolTip": "H:\\CNPM-PBL3-BE\\Services\\BillService.cs",
+              "RelativeToolTip": "Services\\BillService.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAkwEEAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T06:31:14.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "User.cs",
+              "DocumentMoniker": "H:\\CNPM-PBL3-BE\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "H:\\CNPM-PBL3-BE\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T06:25:43.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EnrollmentService.cs",
+              "DocumentMoniker": "H:\\CNPM-PBL3-BE\\Services\\EnrollmentService.cs",
+              "RelativeDocumentMoniker": "Services\\EnrollmentService.cs",
+              "ToolTip": "H:\\CNPM-PBL3-BE\\Services\\EnrollmentService.cs",
+              "RelativeToolTip": "Services\\EnrollmentService.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAA9wG4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T06:09:40.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ReviewService.cs",
+              "DocumentMoniker": "H:\\CNPM-PBL3-BE\\Services\\ReviewService.cs",
+              "RelativeDocumentMoniker": "Services\\ReviewService.cs",
+              "ToolTip": "H:\\CNPM-PBL3-BE\\Services\\ReviewService.cs",
+              "RelativeToolTip": "Services\\ReviewService.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAiwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T06:12:09.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CourseService.cs",
+              "DocumentMoniker": "H:\\CNPM-PBL3-BE\\Services\\CourseService.cs",
+              "RelativeDocumentMoniker": "Services\\CourseService.cs",
+              "ToolTip": "H:\\CNPM-PBL3-BE\\Services\\CourseService.cs",
+              "RelativeToolTip": "Services\\CourseService.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAYwE0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T06:25:35.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "H:\\CNPM-PBL3-BE\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "Services\\UserService.cs",
+              "ToolTip": "H:\\CNPM-PBL3-BE\\Services\\UserService.cs",
+              "RelativeToolTip": "Services\\UserService.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAUwFYAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T06:25:50.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IBillService.cs",
+              "DocumentMoniker": "H:\\CNPM-PBL3-BE\\Interface\\IBillService.cs",
+              "RelativeDocumentMoniker": "Interface\\IBillService.cs",
+              "ToolTip": "H:\\CNPM-PBL3-BE\\Interface\\IBillService.cs",
+              "RelativeToolTip": "Interface\\IBillService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T06:30:52.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ICourseService.cs",
+              "DocumentMoniker": "H:\\CNPM-PBL3-BE\\Interface\\ICourseService.cs",
+              "RelativeDocumentMoniker": "Interface\\ICourseService.cs",
+              "ToolTip": "H:\\CNPM-PBL3-BE\\Interface\\ICourseService.cs",
+              "RelativeToolTip": "Interface\\ICourseService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T06:25:39.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Enrollment.cs",
+              "DocumentMoniker": "H:\\CNPM-PBL3-BE\\Models\\Enrollment.cs",
+              "RelativeDocumentMoniker": "Models\\Enrollment.cs",
+              "ToolTip": "H:\\CNPM-PBL3-BE\\Models\\Enrollment.cs",
+              "RelativeToolTip": "Models\\Enrollment.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T06:21:44.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Review.cs",
+              "DocumentMoniker": "H:\\CNPM-PBL3-BE\\Models\\Review.cs",
+              "RelativeDocumentMoniker": "Models\\Review.cs",
+              "ToolTip": "H:\\CNPM-PBL3-BE\\Models\\Review.cs",
+              "RelativeToolTip": "Models\\Review.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T06:12:03.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IEnrollmentService.cs",
+              "DocumentMoniker": "H:\\CNPM-PBL3-BE\\Interface\\IEnrollmentService.cs",
+              "RelativeDocumentMoniker": "Interface\\IEnrollmentService.cs",
+              "ToolTip": "H:\\CNPM-PBL3-BE\\Interface\\IEnrollmentService.cs",
+              "RelativeToolTip": "Interface\\IEnrollmentService.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAABYAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T06:10:00.708Z",
+              "EditorCaption": ""
             }
           ]
         }
